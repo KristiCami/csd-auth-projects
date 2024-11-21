@@ -71,7 +71,7 @@ You can find these and other exciting projects on my **Buy Me a Coffee page**:
 
 ## 📩 Let’s Connect!  
 Have questions, feedback, or collaboration ideas? Reach out to me:  
-- **Email**: [tsamikristi@csd.auth.gr](mailto:cami.kristi@icloud.com)  
+- **Email**: [cami.kristi@icloud.com](mailto:cami.kristi@icloud.com)  
 - **Buy Me a Coffee**: [Support My Work](https://buymeacoffee.com/tsamichrisj)  
 
 ---
