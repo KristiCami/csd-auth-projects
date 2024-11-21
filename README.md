@@ -49,7 +49,7 @@ Welcome to my collection of **academic projects**, developed as part of my cours
      - Conducted a usability evaluation for a software system using **Jakob Nielsen's 10 Usability Heuristics**.  
      - Proposed actionable recommendations to improve user experience, accessibility, and efficiency.  
    - **Tools Used**: Usability Testing, Evaluation Frameworks  
-   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/e/334533)  
+   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/e/334542)  
 
 ---
 
