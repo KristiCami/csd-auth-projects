@@ -1,5 +1,3 @@
-Here’s an updated version incorporating your status as a graduate student:
-
 ---
 
 # 🌟 University Project Portfolio – Aristotle University of Thessaloniki (CSD)  
