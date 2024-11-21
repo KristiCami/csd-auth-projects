@@ -15,7 +15,7 @@ Welcome to my collection of **academic projects**, developed as part of my cours
      - Designed a 2-bit **Arithmetic Logic Unit (ALU)** capable of performing operations such as NOT, ADD, XOR, NAND, and A+1.  
      - Developed a **4-bit non-binary counter (mod-9)** using JK Flip-Flops and Karnaugh maps for optimized logic.  
    - **Tools Used**: Logisim  
-   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/extras)  
+   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/e/334745)  
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my collection of **academic projects**, developed as part of my cours
      - Implemented a CRC algorithm for error detection in digital communication systems.  
      - Features include random binary message generation, modulo-2 division, error simulation, and error detection statistics.  
    - **Tools Used**: Python  
-   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/extras)  
+   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/e/334741)  
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to my collection of **academic projects**, developed as part of my cours
      - Developed a secure and user-friendly password management application.  
      - Features include encrypted storage (Room Database), multi-language support, and an intuitive user interface following Android design guidelines.  
    - **Tools Used**: Android Studio, Java  
-   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/extras)  
+   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/e/334735)  
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to my collection of **academic projects**, developed as part of my cours
      - Explored the applications of **Augmented Reality (AR)** in sports for athletes, fans, and coaches.  
      - Topics include AR-based training, sports analytics, and fan engagement enhancements.  
    - **Tools Used**: Research and Technical Writing  
-   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/extras)  
+   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/e/334537)  
 
 ---
 
@@ -51,7 +51,7 @@ Welcome to my collection of **academic projects**, developed as part of my cours
      - Conducted a usability evaluation for a software system using **Jakob Nielsen's 10 Usability Heuristics**.  
      - Proposed actionable recommendations to improve user experience, accessibility, and efficiency.  
    - **Tools Used**: Usability Testing, Evaluation Frameworks  
-   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/extras)  
+   - [View and Download the Project](https://buymeacoffee.com/tsamichrisj/e/334533)  
 
 ---
 
@@ -81,5 +81,3 @@ Have questions, feedback, or collaboration ideas? Reach out to me:
 **⭐ Don’t forget to star this repository if you found it helpful or inspiring!**
 
 --- 
-
-Let me know if you need further updates!
